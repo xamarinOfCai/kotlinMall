@@ -1,2 +1,2 @@
 # kotlinMall
-kotlin的电商项目
+kotlin的练习项目
